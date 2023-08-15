@@ -3,11 +3,11 @@
 The PDF Chatbot is a cutting-edge application designed to bridge the gap between static PDF content and dynamic interactions. This application lets users upload PDF documents and then communicate with the content through a chatbot interface. Whether it's asking detailed questions about the content or seeking clarifications, the chatbot will provide intelligent and context-aware responses based on the uploaded PDF.
 
 ## Technologies Used
-Langchain: At the heart of our chatbot functionality, Langchain provides the essential tools and utilities to parse and understand the PDF content, transforming them into interactive dialogues.
+Langchain: Langchain provides the essential tools and utilities to parse and understand the PDF content, transforming them into interactive dialogues.
 
 OpenAI API: The engine behind the chatbot's intelligence. OpenAI's GPT models allow our chatbot to generate human-like responses, making interactions feel natural and informative.
 
-FAISS_db: Our choice of database solution. FAISS_db provides the robustness and speed required to store and retrieve data efficiently, ensuring that the application remains snappy and responsive.
+FAISS_db: provides the robustness and speed required to store and retrieve data efficiently, ensuring that the application remains snappy and responsive.
 
 ## Features
 Interactive Chat: Don't just read; interact! The chatbot provides users a unique way to engage with content, transforming static text into dynamic conversations.
