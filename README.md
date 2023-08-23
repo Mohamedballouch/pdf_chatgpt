@@ -24,3 +24,5 @@ Bookmarking and Annotations: Save specific parts of the PDF and make notes for f
 
 ## Feedback & Contributions
 We value the feedback of our users. If you have suggestions, issues, or want to contribute to the project, please open an issue or submit a pull request.
+
+![1_CJzoMxqFrxrDv2UpZt23ZQ](https://github.com/Mohamedballouch/pdf_chatgpt/assets/28219393/f1a30147-a827-401d-b173-33cd25bb1637)
